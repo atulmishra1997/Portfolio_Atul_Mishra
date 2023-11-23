@@ -31,7 +31,7 @@
     max-width: 60rem;
 }
 
-.name, .email, .msg {
+.name, .email, .mobile, .msg {
     font-size: medium;
     width: 100%;
     max-width: 40rem;
