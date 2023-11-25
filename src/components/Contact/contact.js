@@ -4,6 +4,8 @@ import FacebookIcon from '../../assets/facebook-icon.png';
 import TwitterIcon from '../../assets/twitter.png';
 import YoutubeIcon from '../../assets/youtube.png';
 import InstagramIcon from '../../assets/instagram.png';
+import LinkedInIcon from '../../assets/linkedin-icon.png';
+import GithubIcon from '../../assets/github-icon.png';
 import emailjs from '@emailjs/browser';
 
 const Contact = () => {
@@ -37,6 +39,8 @@ const Contact = () => {
                         <a href="https://twitter.com/brandys_vines1"><img src={TwitterIcon} alt="Twitter" className="link"/></a>
                         <a href="https://www.youtube.com/channel/UC8HpyjHZaJJ4jN1w3XUakGg"><img src={YoutubeIcon} alt="Youtube" className="link"/></a>
                         <a href="https://www.instagram.com/atul_mishra1997/"><img src={InstagramIcon} alt="Instagram" className="link"/></a>
+                        <a href="https://www.linkedin.com/in/atulmishra1997/"><img src={LinkedInIcon} alt="LinkedIn" className="link"/></a>
+                        <a href="https://github.com/atulmishra1997/"><img src={GithubIcon} alt="Github" className="link"/></a>
                     </div>
                 </form>
             </div>
