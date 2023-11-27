@@ -14,7 +14,6 @@
     },
     "plugins": ["react", "react-hooks"],
     "rules": {
-        "react/react-in-jsx-scope": "off",
-        "plugin:react-hooks/recommended"
+        "react/react-in-jsx-scope": "off"
     }
 }
